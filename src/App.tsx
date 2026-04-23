@@ -254,7 +254,8 @@ export default function App() {
       await wait(2800);
       if (!isMounted) return;
       setIsTyping(false);
-      setMessages(prev => [...prev, { id: 'f3', type: 'received', text: 'Amor eu tenho umas coisas super exclusivas para te mostrar no zap', time: getTime() }]);
+      setMessages(prev => [...prev, { id: 'f3', type: 'received', text: '
+Amor eu faço chamada de video ao vivo no zap e tenho umas fotinhas mostrando meu cuzinho e minha bucetinha', time: getTime() }]);
 
       // 4. Digitando e enviando a última mensagem
       await wait(600);
@@ -263,7 +264,8 @@ export default function App() {
       await wait(2200);
       if (!isMounted) return;
       setIsTyping(false);
-      setMessages(prev => [...prev, { id: 'f4', type: 'received', text: 'Posso mandar umas fotinhas pra você agora amor?', time: getTime() }]);
+      setMessages(prev => [...prev, { id: 'f4', type: 'received', text: '
+Posso mandar umas fotinhas peladinha pra você agora amor?', time: getTime() }]);
       
       // Mostrar botão de ação após a última mensagem
       await wait(500);
